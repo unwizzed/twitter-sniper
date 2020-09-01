@@ -10,7 +10,7 @@ The key "wordlist" will be the file the wordlist will be loaded from.
 
 Install requirements in requirements.txt using pip
 
-```
+```cmd
 pip install -r requirements.txt
 ```
 
