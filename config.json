@@ -1,0 +1,7 @@
+ {
+	"auth_bearer":"",
+	"auth_token":"",
+	"csrf":"",
+	"wordlist":"names.txt"
+
+}
